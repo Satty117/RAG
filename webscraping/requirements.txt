@@ -1,0 +1,14 @@
+dotenv
+Beautifulsoup4
+langchain
+groq
+chromadb
+requests
+streamlit
+langchain_core
+lxml
+langchain_mistralai
+
+
+
+
